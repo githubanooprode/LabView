@@ -1,2 +1,2 @@
-# projects
-Welcome to my GitHub repository! I am a passionate mechatronics engineer currently pursuing a Master's degree in Mechatronics at TU Liberec. In this repository, I have compiled a collection of projects and code that showcase my journey and expertise in the field of mechatronics.
+# Labview Project Repository
+Welcome to my GitHub repository for my LabVIEW projects, showcasing my work as a mechatronics engineer pursuing a Master's degree at TU Liberec. LabVIEW is a powerful tool in the world of mechatronics, allowing for the development of innovative control systems, data acquisition, and automation solutions.
